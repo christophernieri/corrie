@@ -3,6 +3,7 @@ import { select } from 'd3-selection'
 import 'd3-transition'
 import { zoom, zoomIdentity, type ZoomBehavior, type ZoomTransform } from 'd3-zoom'
 import { calculateLayout, type GraphNode } from '../graph/layout'
+import { exceededDragThreshold } from '../graph/gesture'
 import { GROUP_COLORS, TYPE_META, type Character, type Relationship, type RelationshipType, type WikiInfo } from '../data/types'
 
 interface GraphProps {
@@ -26,6 +27,15 @@ function endpointId(endpoint: string | GraphNode) {
   return typeof endpoint === 'string' ? endpoint : endpoint.id
 }
 
+interface DragState {
+  id: string
+  startClientX: number
+  startClientY: number
+  startNodeX: number
+  startNodeY: number
+  dragging: boolean
+}
+
 export default function Graph({
   characters,
   relationships,
@@ -43,7 +53,7 @@ export default function Graph({
     [characters, relationships],
   )
   const [nodes, setNodes] = useState(initialNodes)
-  const dragRef = useRef<{ id: string; moved: boolean } | null>(null)
+  const dragRef = useRef<DragState | null>(null)
 
   const nodeById = useMemo(() => new Map(nodes.map((node) => [node.id, node])), [nodes])
   const visibleRelationships = useMemo(
@@ -149,25 +159,47 @@ export default function Graph({
 
   const handlePointerDown = (event: React.PointerEvent, id: string) => {
     event.stopPropagation()
+    const node = nodeById.get(id)
+    if (!node) return
     event.currentTarget.setPointerCapture(event.pointerId)
-    dragRef.current = { id, moved: false }
+    dragRef.current = {
+      id,
+      startClientX: event.clientX,
+      startClientY: event.clientY,
+      startNodeX: node.x,
+      startNodeY: node.y,
+      dragging: false,
+    }
   }
 
   const handlePointerMove = (event: React.PointerEvent, id: string) => {
-    if (dragRef.current?.id !== id || !svgRef.current) return
-    const rect = svgRef.current.getBoundingClientRect()
+    const drag = dragRef.current
+    if (drag?.id !== id) return
+    if (
+      !drag.dragging &&
+      !exceededDragThreshold(
+        drag.startClientX,
+        drag.startClientY,
+        event.clientX,
+        event.clientY,
+      )
+    ) return
+    drag.dragging = true
     const transform = transformRef.current
-    const x = (event.clientX - rect.left - transform.x) / transform.k
-    const y = (event.clientY - rect.top - transform.y) / transform.k
-    dragRef.current.moved = true
+    const x = drag.startNodeX + (event.clientX - drag.startClientX) / transform.k
+    const y = drag.startNodeY + (event.clientY - drag.startClientY) / transform.k
     setNodes((current) => current.map((node) => (node.id === id ? { ...node, x, y } : node)))
   }
 
   const handlePointerUp = (event: React.PointerEvent, id: string) => {
     event.stopPropagation()
-    const moved = dragRef.current?.moved
+    const dragging = dragRef.current?.dragging
     dragRef.current = null
-    if (!moved) onSelect(id)
+    if (!dragging) onSelect(id)
+  }
+
+  const handlePointerCancel = () => {
+    dragRef.current = null
   }
 
   return (
@@ -236,6 +268,7 @@ export default function Graph({
                 onPointerDown={(event) => handlePointerDown(event, node.id)}
                 onPointerMove={(event) => handlePointerMove(event, node.id)}
                 onPointerUp={(event) => handlePointerUp(event, node.id)}
+                onPointerCancel={handlePointerCancel}
                 onKeyDown={(event) => {
                   if (event.key === 'Enter' || event.key === ' ') onSelect(node.id)
                 }}
