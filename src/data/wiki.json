@@ -1,0 +1,930 @@
+{
+  "ken-barlow": {
+    "title": "Ken Barlow",
+    "url": "https://en.wikipedia.org/wiki/Ken_Barlow",
+    "portrayer": "William Roache",
+    "years": "1960–present",
+    "spouses": [
+      "Valerie Tatlock (1962–1971)",
+      "Janet Reid (1973–1977)",
+      "Deirdre Langton (1981–1992, 2005–2015)"
+    ],
+    "image": "avatars/ken-barlow.png"
+  },
+  "deirdre-barlow": {
+    "title": "Deirdre Barlow",
+    "url": "https://en.wikipedia.org/wiki/Deirdre_Barlow",
+    "portrayer": "Anne Kirkbride",
+    "years": "1972–2014",
+    "spouses": [
+      "Ray Langton (1975–1978)",
+      "Ken Barlow (1981–1992, 2005–2015)",
+      "Samir Rachid (1994–1995)"
+    ],
+    "image": "avatars/deirdre-barlow.jpg"
+  },
+  "tracy-barlow": {
+    "title": "Tracy Barlow",
+    "url": "https://en.wikipedia.org/wiki/Tracy_Barlow",
+    "portrayer": "Christabel Finch (1977–1983), Holly Chamarette (1985–1988), Dawn Acton (1988–1999), Kate Ford (2002–present)",
+    "years": "1977–1983, 1985–1997, 1999, 2002–2007, 2010–present",
+    "spouses": [
+      "Robert Preston (1996–2003)",
+      "Roy Cropper (2003–2004)",
+      "Steve McDonald (2012–2013, 2018–2026)"
+    ],
+    "image": "avatars/tracy-barlow.jpg"
+  },
+  "peter-barlow": {
+    "title": "Peter Barlow (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Peter_Barlow_(Coronation_Street)",
+    "portrayer": "Robert Heanue (1965–1970), Chris Dormer (1970–1971), Mark Duncan (1971), Linus Roache (1973–1975), Joseph McKenner (1977–1978), David Lonsdale (1986), Chris Gascoyne (2000–2023)",
+    "years": "1965–1971, 1973–1975, 1977–1978, 1986, 2000–2003, 2007–2023",
+    "spouses": [
+      "Jessica Midgeley (1990–2000)",
+      "Lucy Richards (2003–2008)",
+      "Shelley Unwin (2003; void)",
+      "Leanne Battersby (2010–2012)",
+      "Carla Connor (2013–2014, 2021–2024)"
+    ],
+    "image": "avatars/peter-barlow.jpg"
+  },
+  "blanche-hunt": {
+    "title": "Blanche Hunt",
+    "url": "https://en.wikipedia.org/wiki/Blanche_Hunt",
+    "portrayer": "Patricia Cutts (1974), Maggie Jones (1974–2009)",
+    "years": "1974–1978, 1981, 1996–2009",
+    "spouses": [
+      "Donald Hunt (backstory)"
+    ],
+    "image": "avatars/blanche-hunt.jpg"
+  },
+  "adam-barlow": {
+    "title": "Adam Barlow",
+    "url": "https://en.wikipedia.org/wiki/Adam_Barlow",
+    "portrayer": "Iain De Caestecker (2001–2003), Sam Robertson (2004–present)",
+    "years": "2001–2007, 2016–present",
+    "spouses": [
+      "Sarah Platt (2020–2024)"
+    ]
+  },
+  "jon-lindsay": {
+    "title": "List of Coronation Street characters introduced in 1997#Jon Lindsay",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1997#Jon_Lindsay",
+    "portrayer": "Owen Aaronovitch",
+    "years": "1997–1998",
+    "spouses": [
+      "Linda Lindsay",
+      "Mary Docherty (bigamous)"
+    ]
+  },
+  "mike-baldwin": {
+    "title": "Mike Baldwin (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Mike_Baldwin_(Coronation_Street)",
+    "portrayer": "Johnny Briggs",
+    "years": "1976–2006",
+    "spouses": [
+      "Susan Barlow (1986–1988)",
+      "Jackie Ingram (1991–1992)",
+      "Alma Halliwell (1992–2000)",
+      "Linda Sykes (2000–2002)"
+    ],
+    "image": "avatars/mike-baldwin.jpg"
+  },
+  "alma-baldwin": {
+    "title": "Alma Baldwin",
+    "url": "https://en.wikipedia.org/wiki/Alma_Baldwin",
+    "portrayer": "Amanda Barrie",
+    "years": "1981–1982, 1988–2001",
+    "spouses": [
+      "Jim Sedgewick (until 1982)",
+      "Mike Baldwin (1992–2000)"
+    ],
+    "image": "avatars/alma-baldwin.jpg"
+  },
+  "linda-sykes": {
+    "title": "List of Coronation Street characters introduced in 1998#Linda Sykes",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1998#Linda_Sykes",
+    "portrayer": "Jacqueline Pirie",
+    "years": "1998–2001",
+    "spouses": [
+      "Mike Baldwin (2000–2001)"
+    ]
+  },
+  "mark-redman": {
+    "title": "Mark Redman",
+    "url": "https://en.wikipedia.org/wiki/Mark_Redman",
+    "spouses": []
+  },
+  "eve-sykes": {
+    "title": "List of Coronation Street characters introduced in 2000#Eve Sykes",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2000#Eve_Sykes",
+    "portrayer": "Melanie Kilburn",
+    "years": "2000–2002",
+    "spouses": [
+      "Ray Sykes (divorced)"
+    ]
+  },
+  "dean-sykes": {
+    "title": "List of Coronation Street characters introduced in 2000#Dean Sykes",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2000#Dean_Sykes",
+    "portrayer": "Ciarán Griffiths",
+    "spouses": []
+  },
+  "danny-baldwin": {
+    "title": "Danny Baldwin",
+    "url": "https://en.wikipedia.org/wiki/Danny_Baldwin",
+    "portrayer": "Bradley Walsh",
+    "years": "2004–2006",
+    "spouses": [
+      "Carol Saunders (backstory)",
+      "Frankie Baldwin (until 2006)"
+    ]
+  },
+  "frankie-baldwin": {
+    "title": "Frankie Baldwin",
+    "url": "https://en.wikipedia.org/wiki/Frankie_Baldwin",
+    "portrayer": "Debra Stephenson",
+    "years": "2004–2006",
+    "spouses": [
+      "Danny Baldwin (until 2006)",
+      "Dean Fraser (2009–present)"
+    ],
+    "image": "avatars/frankie-baldwin.jpg"
+  },
+  "jamie-baldwin": {
+    "title": "Jamie Baldwin",
+    "url": "https://en.wikipedia.org/wiki/Jamie_Baldwin",
+    "portrayer": "Rupert Hill",
+    "years": "2004–2008, 2011",
+    "spouses": [],
+    "image": "avatars/jamie-baldwin.jpg"
+  },
+  "gail-platt": {
+    "title": "Gail Platt",
+    "url": "https://en.wikipedia.org/wiki/Gail_Platt",
+    "portrayer": "Helen Worth",
+    "years": "1974–2025",
+    "spouses": [
+      "Brian Tilsley (1979–1987, 1988–1989)",
+      "Martin Platt (1991–2001)",
+      "Richard Hillman (2002–2003)",
+      "Joe McIntyre (2010)",
+      "Michael Rodwell (2015–2016)",
+      "Jesse Chadwick (2024–present)"
+    ],
+    "image": "avatars/gail-platt.jpg"
+  },
+  "martin-platt": {
+    "title": "Martin Platt",
+    "url": "https://en.wikipedia.org/wiki/Martin_Platt",
+    "portrayer": "Sean Wilson",
+    "years": "1985–2005, 2018",
+    "spouses": [
+      "Gail Tilsley (1991–2001)",
+      "Robyn Platt (2006–present)"
+    ],
+    "image": "avatars/martin-platt.jpg"
+  },
+  "sarah-platt": {
+    "title": "Sarah Platt",
+    "url": "https://en.wikipedia.org/wiki/Sarah_Platt",
+    "portrayer": "Leah King (1987), Lynsay King (1987–1999), Tina O'Brien (1999–present)",
+    "years": "1987–2008, 2015–present",
+    "spouses": [
+      "Jason Grimshaw (2007–2010)",
+      "Adam Barlow (2020–2024)"
+    ],
+    "image": "avatars/sarah-platt.jpg"
+  },
+  "david-platt": {
+    "title": "David Platt (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/David_Platt_(Coronation_Street)",
+    "portrayer": "Thomas Ormson (1990–2000), Jack P. Shepherd (2000–present)",
+    "years": "1990–present",
+    "spouses": [
+      "Kylie Turner (2011–2016)",
+      "Shona Ramsey (2019–present)"
+    ],
+    "image": "avatars/david-platt.jpg"
+  },
+  "nick-tilsley": {
+    "title": "Nick Tilsley",
+    "url": "https://en.wikipedia.org/wiki/Nick_Tilsley",
+    "portrayer": "Warren Jackson (1981–1996), Adam Rickitt (1997–2004), Ben Price (2009–present)",
+    "years": "1981–1999, 2002–2004, 2009–present",
+    "spouses": [
+      "Leanne Battersby (1998–1999, 2013–2014)",
+      "Carla Connor (2016–2017)",
+      "Elsa Tilsley (2017–2019)"
+    ],
+    "image": "avatars/nick-tilsley.png"
+  },
+  "audrey-roberts": {
+    "title": "Audrey Roberts",
+    "url": "https://en.wikipedia.org/wiki/Audrey_Roberts",
+    "portrayer": "Sue Nicholls",
+    "years": "1979–1982, 1984–",
+    "spouses": [
+      "Alf Roberts (1985–1999)"
+    ],
+    "image": "avatars/audrey-roberts.jpg"
+  },
+  "alf-roberts": {
+    "title": "Alf Roberts",
+    "url": "https://en.wikipedia.org/wiki/Alf_Roberts",
+    "portrayer": "Bryan Mosley",
+    "years": "1961–1963, 1967, 1971–1999",
+    "spouses": [
+      "Phyllis Plant (until 1972)",
+      "Renee Bradshaw (1978–1980)",
+      "Audrey Potter (1985–1999)"
+    ],
+    "image": "avatars/alf-roberts.jpg"
+  },
+  "richard-hillman": {
+    "title": "Richard Hillman",
+    "url": "https://en.wikipedia.org/wiki/Richard_Hillman",
+    "portrayer": "Brian Capron",
+    "years": "2001–2003, 2024",
+    "spouses": [
+      "Marian Hillman (backstory)",
+      "Patricia Hillman (backstory)",
+      "Gail Platt (2002–2003)"
+    ],
+    "image": "avatars/richard-hillman.jpg"
+  },
+  "patricia-hillman": {
+    "title": "List of Coronation Street characters introduced in 2002#Patricia Hillman",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2002#Patricia_Hillman",
+    "portrayer": "Kazia Pelka",
+    "spouses": [
+      "John Wilding"
+    ]
+  },
+  "rebecca-hopkins": {
+    "title": "Rebecca Hopkins",
+    "url": "https://en.wikipedia.org/wiki/Rebecca_Hopkins",
+    "portrayer": "Jill Halfpenny",
+    "years": "1999–2000",
+    "spouses": [
+      "Jerry Hopkins (until 2000)"
+    ]
+  },
+  "neil-fearns": {
+    "title": "List of Coronation Street characters introduced in 2000#Neil Fearns",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2000#Neil_Fearns",
+    "portrayer": "Gabrielle Glaister",
+    "spouses": []
+  },
+  "aidan-critchley": {
+    "title": "List of Coronation Street characters introduced in 2002#Aidan Critchley",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2002#Aidan_Critchley",
+    "portrayer": "Dean Ashton",
+    "years": "2002–2003",
+    "spouses": []
+  },
+  "steve-mcdonald": {
+    "title": "Steve McDonald (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Steve_McDonald_(Coronation_Street)",
+    "portrayer": "Simon Gregson",
+    "years": "1989–present",
+    "spouses": [
+      "Vicky Arden (1995–1996)",
+      "Karen Phillips (2001–2003, 2004–2006)",
+      "Becky Granger (2009–2011)",
+      "Tracy Barlow (2012–2013, 2018–2026)",
+      "Michelle Connor (2015–2017)"
+    ],
+    "image": "avatars/steve-mcdonald.jpg"
+  },
+  "karen-mcdonald": {
+    "title": "Karen McDonald (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Karen_McDonald_(Coronation_Street)",
+    "portrayer": "Suranne Jones",
+    "years": "2000–2004",
+    "spouses": [
+      "Steve McDonald (2001–2003, 2004–2006)"
+    ],
+    "image": "avatars/karen-mcdonald.jpg"
+  },
+  "liz-mcdonald": {
+    "title": "Liz McDonald",
+    "url": "https://en.wikipedia.org/wiki/Liz_McDonald",
+    "portrayer": "Beverley Callard",
+    "years": "1989–1998, 2000–2001, 2003–2011, 2013–2020",
+    "spouses": [
+      "Jim McDonald (1974–1997, 2000–2005)",
+      "Vernon Tomlin (2007–2009)"
+    ],
+    "image": "avatars/liz-mcdonald.jpg"
+  },
+  "jim-mcdonald": {
+    "title": "Jim McDonald (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Jim_McDonald_(Coronation_Street)",
+    "portrayer": "Charles Lawson",
+    "years": "1989–2000, 2003–2005, 2007–2011, 2014, 2018",
+    "spouses": [
+      "Liz McDonald (until 1997, 2000–2005)"
+    ],
+    "image": "avatars/jim-mcdonald.jpg"
+  },
+  "andy-mcdonald": {
+    "title": "List of Coronation Street characters introduced in 1989#Andy McDonald",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1989#Andy_McDonald",
+    "portrayer": "Nicholas Cochrane",
+    "years": "1989-1997, 2000, 2004, 2009",
+    "spouses": []
+  },
+  "vikram-desai": {
+    "title": "List of Coronation Street characters introduced in 1999#Vikram Desai",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1999#Vikram_Desai",
+    "portrayer": "Chris Bisson",
+    "years": "1999–2002",
+    "spouses": []
+  },
+  "fiona-middleton": {
+    "title": "Fiona Middleton",
+    "url": "https://en.wikipedia.org/wiki/Fiona_Middleton",
+    "portrayer": "Angela Griffin",
+    "years": "1992–1998, 2019",
+    "spouses": [
+      "John Brooker (post-1998 until 2019)"
+    ]
+  },
+  "jack-duckworth": {
+    "title": "Jack Duckworth",
+    "url": "https://en.wikipedia.org/wiki/Jack_Duckworth",
+    "portrayer": "Bill Tarmey",
+    "years": "1979, 1981–2010",
+    "spouses": [
+      "Vera Burton (until 2008)"
+    ],
+    "image": "avatars/jack-duckworth.jpg"
+  },
+  "vera-duckworth": {
+    "title": "Vera Duckworth",
+    "url": "https://en.wikipedia.org/wiki/Vera_Duckworth",
+    "portrayer": "Liz Dawn",
+    "years": "1974, 1976–2008, 2010",
+    "spouses": [
+      "Jack Duckworth (until 2008)"
+    ],
+    "image": "avatars/vera-duckworth.jpg"
+  },
+  "tyrone-dobbs": {
+    "title": "Tyrone Dobbs",
+    "url": "https://en.wikipedia.org/wiki/Tyrone_Dobbs",
+    "portrayer": "Alan Halsall",
+    "years": "1998–present",
+    "spouses": [
+      "Molly Compton (2009–2010)",
+      "Fiz Stape (2022–present)"
+    ],
+    "image": "avatars/tyrone-dobbs.jpg"
+  },
+  "maria-connor": {
+    "title": "Maria Connor",
+    "url": "https://en.wikipedia.org/wiki/Maria_Connor",
+    "portrayer": "Samia Longchambon",
+    "years": "2000–present",
+    "spouses": [
+      "Liam Connor (2008)",
+      "Pablo Duarte (2016–2017)",
+      "Gary Windass (2020–present)"
+    ],
+    "image": "avatars/maria-connor.jpg"
+  },
+  "fiz-brown": {
+    "title": "Fiz Brown",
+    "url": "https://en.wikipedia.org/wiki/Fiz_Brown",
+    "portrayer": "Jennie McAlpine",
+    "years": "2001–present",
+    "spouses": [
+      "John Stape (2009–2011)",
+      "Phill Whittaker (2022)",
+      "Tyrone Dobbs (2022–present)"
+    ],
+    "image": "avatars/fiz-brown.jpg"
+  },
+  "kirk-sutherland": {
+    "title": "Kirk Sutherland",
+    "url": "https://en.wikipedia.org/wiki/Kirk_Sutherland",
+    "portrayer": "Uncredited actor (2000), Andy Whyment (2000–present)",
+    "years": "2000–present",
+    "spouses": [
+      "Beth Tinker (2015; void)"
+    ],
+    "image": "avatars/kirk-sutherland.jpg"
+  },
+  "kevin-webster": {
+    "title": "Kevin Webster",
+    "url": "https://en.wikipedia.org/wiki/Kevin_Webster",
+    "portrayer": "Michael Le Vell",
+    "years": "1983–present",
+    "spouses": [
+      "Sally Seddon (1986–1999, 2002–2012)",
+      "Alison Wakefield (2000)",
+      "Abi Franklin (2021–present)"
+    ],
+    "image": "avatars/kevin-webster.jpg"
+  },
+  "sally-webster": {
+    "title": "Sally Webster",
+    "url": "https://en.wikipedia.org/wiki/Sally_Webster",
+    "portrayer": "Sally Dynevor",
+    "years": "1986–present",
+    "spouses": [
+      "Kevin Webster (1986–1999, 2002–2012)",
+      "Tim Metcalfe (2015; void, 2020–present)"
+    ],
+    "image": "avatars/sally-webster.jpg"
+  },
+  "greg-kelly": {
+    "title": "List of Coronation Street characters introduced in 1998#Greg Kelly",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1998#Greg_Kelly",
+    "portrayer": "Stephen Billington",
+    "years": "1998–1999",
+    "spouses": []
+  },
+  "danny-hargreaves": {
+    "title": "List of Coronation Street characters introduced in 1999#Danny Hargreaves",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1999#Danny_Hargreaves",
+    "portrayer": "Richard Standing",
+    "years": "1999–2001",
+    "spouses": []
+  },
+  "alison-webster": {
+    "title": "List of Coronation Street characters introduced in 1998#Alison Webster",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1998#Alison_Webster",
+    "portrayer": "Naomi Radcliffe",
+    "years": "1998–2000",
+    "spouses": [
+      "Kevin Webster (2000)"
+    ]
+  },
+  "natalie-barnes": {
+    "title": "Natalie Barnes",
+    "url": "https://en.wikipedia.org/wiki/Natalie_Barnes",
+    "portrayer": "Denise Welch",
+    "years": "1997–2000",
+    "spouses": [
+      "Nick Horrocks (until 1997)",
+      "Des Barnes (1998)"
+    ],
+    "image": "avatars/natalie-barnes.jpg"
+  },
+  "des-barnes": {
+    "title": "Des Barnes",
+    "url": "https://en.wikipedia.org/wiki/Des_Barnes",
+    "portrayer": "Philip Middlemiss",
+    "years": "1990–1998",
+    "spouses": [
+      "Steph Jones",
+      "(1990–1994)",
+      "Natalie Horrocks (1998)"
+    ],
+    "image": "avatars/des-barnes.jpg"
+  },
+  "tony-horrocks": {
+    "title": "List of Coronation Street characters introduced in 1995#Tony Horrocks",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1995#Tony_Horrocks",
+    "portrayer": "Lee Warburton",
+    "years": "1995–1998",
+    "spouses": []
+  },
+  "vinny-sorrell": {
+    "title": "List of Coronation Street characters introduced in 1999#Vinny Sorrell",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1999#Vinny_Sorrell",
+    "portrayer": "James Gaddas",
+    "years": "1999–2000",
+    "spouses": []
+  },
+  "jez-quigley": {
+    "title": "List of Coronation Street characters introduced in 1997#Jez Quigley",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1997#Jez_Quigley",
+    "portrayer": "Lee Boardman",
+    "years": "1997, 1999–2000",
+    "spouses": []
+  },
+  "les-battersby": {
+    "title": "Les Battersby",
+    "url": "https://en.wikipedia.org/wiki/Les_Battersby",
+    "portrayer": "Bruce Jones",
+    "years": "1997–2007",
+    "spouses": [
+      "Janice Lee (until 2004)",
+      "Cilla Brown (2005–2008)"
+    ],
+    "image": "avatars/les-battersby.jpg"
+  },
+  "janice-battersby": {
+    "title": "Janice Battersby",
+    "url": "https://en.wikipedia.org/wiki/Janice_Battersby",
+    "portrayer": "Vicky Entwistle",
+    "years": "1997–2011",
+    "spouses": [
+      "Les Battersby (until 2004)"
+    ],
+    "image": "avatars/janice-battersby.jpg"
+  },
+  "leanne-battersby": {
+    "title": "Leanne Battersby",
+    "url": "https://en.wikipedia.org/wiki/Leanne_Battersby",
+    "portrayer": "Jane Danson",
+    "years": "1997–2000, 2004–present",
+    "spouses": [
+      "Nick Tilsley (1998–1999, 2013–2014)",
+      "Peter Barlow (2010–2012)"
+    ],
+    "image": "avatars/leanne-battersby.jpg"
+  },
+  "toyah-battersby": {
+    "title": "Toyah Battersby",
+    "url": "https://en.wikipedia.org/wiki/Toyah_Battersby",
+    "portrayer": "Georgia Taylor",
+    "years": "1997–2003, 2016–present",
+    "spouses": [
+      "Toby Chapman (2011–2017)",
+      "Imran Habeeb (2022)"
+    ],
+    "image": "avatars/toyah-battersby.jpg"
+  },
+  "cilla-battersby-brown": {
+    "title": "Cilla Battersby-Brown",
+    "url": "https://en.wikipedia.org/wiki/Cilla_Battersby-Brown",
+    "portrayer": "Wendi Peters",
+    "years": "2003–2007, 2014",
+    "spouses": [
+      "Les Battersby (2005–2008)"
+    ],
+    "image": "avatars/cilla-battersby-brown.jpg"
+  },
+  "chesney-brown": {
+    "title": "Chesney Brown",
+    "url": "https://en.wikipedia.org/wiki/Chesney_Brown",
+    "portrayer": "Sam Aston",
+    "years": "2003–present",
+    "spouses": [
+      "Gemma Winter (2023–present)"
+    ],
+    "image": "avatars/chesney-brown.jpg"
+  },
+  "dennis-stringer": {
+    "title": "List of Coronation Street characters introduced in 2000#Dennis Stringer",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2000#Dennis_Stringer",
+    "portrayer": "Charles Dale",
+    "years": "2000–2002",
+    "spouses": [
+      "Carol Stringer"
+    ]
+  },
+  "spider-nugent": {
+    "title": "List of Coronation Street characters introduced in 1997#Spider Nugent",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1997#Spider_Nugent",
+    "portrayer": "Martin Hancock",
+    "years": "1997–2001, 2003, 2022–2023",
+    "spouses": [
+      "Layla Nugent (2021–2023)"
+    ]
+  },
+  "roy-cropper": {
+    "title": "Roy Cropper",
+    "url": "https://en.wikipedia.org/wiki/Roy_Cropper",
+    "portrayer": "David Neilson",
+    "years": "1995–present",
+    "spouses": [
+      "Tracy Barlow (2003–2004)",
+      "Hayley Cropper (2010–2014)"
+    ],
+    "image": "avatars/roy-cropper.jpg"
+  },
+  "hayley-cropper": {
+    "title": "Hayley Cropper",
+    "url": "https://en.wikipedia.org/wiki/Hayley_Cropper",
+    "portrayer": "Julie Hesmondhalgh",
+    "years": "1998–2014",
+    "spouses": [
+      "Roy Cropper (2010–2014)"
+    ],
+    "image": "avatars/hayley-cropper.jpg"
+  },
+  "fred-elliott": {
+    "title": "Fred Elliott",
+    "url": "https://en.wikipedia.org/wiki/Fred_Elliott",
+    "portrayer": "John Savident",
+    "years": "1994–2006",
+    "spouses": [
+      "Sybil Elliott (backstory)",
+      "Maureen Holdsworth (1997–1998)"
+    ],
+    "image": "avatars/fred-elliott.jpg"
+  },
+  "ashley-peacock": {
+    "title": "Ashley Peacock",
+    "url": "https://en.wikipedia.org/wiki/Ashley_Peacock",
+    "portrayer": "Steven Arnold",
+    "years": "1995–2010",
+    "spouses": [
+      "Maxine Heavey",
+      "(1999–2003)",
+      "Claire Casey",
+      "(2004–2010)"
+    ],
+    "image": "avatars/ashley-peacock.jpg"
+  },
+  "maxine-peacock": {
+    "title": "Maxine Peacock",
+    "url": "https://en.wikipedia.org/wiki/Maxine_Peacock",
+    "portrayer": "Tracy Shaw",
+    "years": "1995–2003",
+    "spouses": [
+      "Ashley Peacock (1999–2003)"
+    ]
+  },
+  "matt-ramsden": {
+    "title": "List of Coronation Street characters introduced in 2000#Matt Ramsden",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2000#Matt_Ramsden",
+    "portrayer": "Stephen Beckett",
+    "years": "2000–2002, 2006",
+    "spouses": [
+      "Charlie Johnson (1992–2003)",
+      "Sylvia Ramsden (200?–)"
+    ]
+  },
+  "claire-peacock": {
+    "title": "Claire Peacock",
+    "url": "https://en.wikipedia.org/wiki/Claire_Peacock",
+    "portrayer": "Julia Haworth",
+    "years": "2003–2011",
+    "spouses": [
+      "Ashley Peacock (2004–2010)"
+    ]
+  },
+  "duggie-ferguson": {
+    "title": "List of Coronation Street characters introduced in 1999#Duggie Ferguson",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1999#Duggie_Ferguson",
+    "portrayer": "John Bowe",
+    "years": "1999&ndash;2002",
+    "spouses": [
+      "Laura Ferguson (until 1999)"
+    ]
+  },
+  "shelley-unwin": {
+    "title": "Shelley Unwin",
+    "url": "https://en.wikipedia.org/wiki/Shelley_Unwin",
+    "portrayer": "Sally Lindsay",
+    "years": "2001–2006",
+    "spouses": [],
+    "image": "avatars/shelley-unwin.jpg"
+  },
+  "bev-unwin": {
+    "title": "List of Coronation Street characters introduced in 2003#Bev Unwin",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2003#Bev_Unwin",
+    "portrayer": "Susie Blake",
+    "years": "2003–2006, 2015",
+    "spouses": [
+      "Charlie Unwin (1978–2002)"
+    ]
+  },
+  "lucy-richards": {
+    "title": "Lucy Richards",
+    "url": "https://en.wikipedia.org/wiki/Lucy_Richards",
+    "portrayer": "Katy Carmichael",
+    "years": "2002–03",
+    "spouses": [
+      "Peter Barlow"
+    ]
+  },
+  "charlie-stubbs": {
+    "title": "Charlie Stubbs (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Charlie_Stubbs_(Coronation_Street)",
+    "portrayer": "Bill Ward",
+    "years": "2003–2007",
+    "spouses": [],
+    "image": "avatars/charlie-stubbs.jpg"
+  },
+  "ciaran-mccarthy": {
+    "title": "Ciaran McCarthy",
+    "url": "https://en.wikipedia.org/wiki/Ciaran_McCarthy",
+    "portrayer": "Keith Duffy",
+    "years": "2002–2005, 2010–2011",
+    "spouses": [],
+    "image": "avatars/ciaran-mccarthy.jpg"
+  },
+  "betty-williams": {
+    "title": "Betty Turpin",
+    "url": "https://en.wikipedia.org/wiki/Betty_Turpin",
+    "portrayer": "Betty Driver",
+    "years": "1969–2011",
+    "spouses": [
+      "Cyril Turpin (until 1974)",
+      "Billy Williams (1995–1997)"
+    ],
+    "image": "avatars/betty-williams.jpg"
+  },
+  "bet-lynch": {
+    "title": "Bet Lynch",
+    "url": "https://en.wikipedia.org/wiki/Bet_Lynch",
+    "portrayer": "Julie Goodyear",
+    "years": "1966, 1970–1995, 2002–2003",
+    "spouses": [
+      "Alec Gilroy (1987–1999)"
+    ]
+  },
+  "rita-sullivan": {
+    "title": "Rita Tanner",
+    "url": "https://en.wikipedia.org/wiki/Rita_Tanner",
+    "portrayer": "Barbara Knox",
+    "years": "1964, 1972–present",
+    "spouses": [
+      "Len Fairclough (1977–1983)",
+      "Ted Sullivan (1992)",
+      "Dennis Tanner (2012–2015)"
+    ],
+    "image": "avatars/rita-sullivan.jpg"
+  },
+  "dev-alahan": {
+    "title": "Dev Alahan",
+    "url": "https://en.wikipedia.org/wiki/Dev_Alahan",
+    "portrayer": "Jimmi Harkishin",
+    "years": "1999–present",
+    "spouses": [
+      "Sunita Parekh (2004–2006)",
+      "Bernie Winter (2025–present)"
+    ]
+  },
+  "sunita-alahan": {
+    "title": "Sunita Alahan",
+    "url": "https://en.wikipedia.org/wiki/Sunita_Alahan",
+    "portrayer": "Shobna Gulati",
+    "years": "2001–2006, 2009–2013",
+    "spouses": [
+      "Dev Alahan (2004–2006)"
+    ],
+    "image": "avatars/sunita-alahan.jpg"
+  },
+  "geena-gregory": {
+    "title": "List of Coronation Street characters introduced in 2000#Geena Gregory",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2000#Geena_Gregory",
+    "portrayer": "Jennifer James",
+    "years": "2000–2002",
+    "spouses": []
+  },
+  "maya-sharma": {
+    "title": "Maya Sharma",
+    "url": "https://en.wikipedia.org/wiki/Maya_Sharma",
+    "portrayer": "Sasha Behar",
+    "years": "2003–2004",
+    "spouses": []
+  },
+  "eileen-grimshaw": {
+    "title": "Eileen Grimshaw",
+    "url": "https://en.wikipedia.org/wiki/Eileen_Grimshaw",
+    "portrayer": "Sue Cleaver",
+    "years": "2000–2025",
+    "spouses": [
+      "Pat Phelan (2017–2018)"
+    ],
+    "image": "avatars/eileen-grimshaw.jpg"
+  },
+  "todd-grimshaw": {
+    "title": "Todd Grimshaw",
+    "url": "https://en.wikipedia.org/wiki/Todd_Grimshaw",
+    "portrayer": "Bruno Langley (2001–2017), Gareth Pierce (2020–present)",
+    "years": "2001–2004, 2007, 2011, 2013–2017, 2020–present",
+    "spouses": [
+      "Theo Silverton (2026)"
+    ]
+  },
+  "jason-grimshaw": {
+    "title": "Jason Grimshaw",
+    "url": "https://en.wikipedia.org/wiki/Jason_Grimshaw",
+    "portrayer": "Ryan Thomas",
+    "years": "2000–2016, 2025",
+    "spouses": [
+      "Sarah Platt (2007–2010)"
+    ],
+    "image": "avatars/jason-grimshaw.jpg"
+  },
+  "karl-foster": {
+    "title": "List of Coronation Street characters introduced in 2003#Karl Foster",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2003#Karl_Foster",
+    "portrayer": "Chris Finch",
+    "years": "2003–2004",
+    "spouses": []
+  },
+  "candice-stowe": {
+    "title": "Candice Stowe",
+    "url": "https://en.wikipedia.org/wiki/Candice_Stowe",
+    "portrayer": "Nikki Sanderson",
+    "years": "1999–2005",
+    "spouses": [],
+    "image": "avatars/candice-stowe.jpg"
+  },
+  "sean-tully": {
+    "title": "Sean Tully",
+    "url": "https://en.wikipedia.org/wiki/Sean_Tully",
+    "portrayer": "Antony Cotton",
+    "years": "2003–present",
+    "spouses": [],
+    "image": "avatars/sean-tully.jpg"
+  },
+  "tommy-harris": {
+    "title": "Tommy Harris (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Tommy_Harris_(Coronation_Street)",
+    "portrayer": "Thomas Craig",
+    "years": "2002–2005",
+    "spouses": [
+      "Angela Appleyard (1985–2005)"
+    ]
+  },
+  "angela-harris": {
+    "title": "Angela Harris (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Angela_Harris_(Coronation_Street)",
+    "portrayer": "Kathryn Hunt",
+    "years": "2002–2005",
+    "spouses": [
+      "Tommy Harris (until 2005)"
+    ],
+    "image": "avatars/angela-harris.png"
+  },
+  "katy-harris": {
+    "title": "Katy Harris",
+    "url": "https://en.wikipedia.org/wiki/Katy_Harris",
+    "portrayer": "Lucy-Jo Hudson",
+    "years": "2002–2005",
+    "spouses": [],
+    "image": "avatars/katy-harris.jpg"
+  },
+  "craig-harris": {
+    "title": "Craig Harris (Coronation Street)",
+    "url": "https://en.wikipedia.org/wiki/Craig_Harris_(Coronation_Street)",
+    "portrayer": "Richard Fleeshman",
+    "years": "2002–2006",
+    "spouses": []
+  },
+  "emily-bishop": {
+    "title": "Emily Bishop",
+    "url": "https://en.wikipedia.org/wiki/Emily_Bishop",
+    "portrayer": "Uncredited (1960), Eileen Derbyshire (1961–2019)",
+    "years": "1960–2016, 2019",
+    "spouses": [
+      "Ernest Bishop (1972–1978)",
+      "Arnold Swain (1980; void)"
+    ],
+    "image": "avatars/emily-bishop.jpg"
+  },
+  "norris-cole": {
+    "title": "Norris Cole",
+    "url": "https://en.wikipedia.org/wiki/Norris_Cole",
+    "spouses": []
+  },
+  "curly-watts": {
+    "title": "Curly Watts",
+    "url": "https://en.wikipedia.org/wiki/Curly_Watts",
+    "portrayer": "Kevin Kennedy",
+    "years": "1983–2003",
+    "spouses": [
+      "Raquel Wolstenhulme (1995–2000)",
+      "Emma Taylor (2000–2003)"
+    ],
+    "image": "avatars/curly-watts.jpg"
+  },
+  "emma-watts": {
+    "title": "List of Coronation Street characters introduced in 2000#Emma Taylor",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2000#Emma_Taylor",
+    "portrayer": "Angela Lonsdale",
+    "years": "2000–2003",
+    "spouses": [
+      "Curly Watts (2000–2003)"
+    ]
+  },
+  "raquel-watts": {
+    "title": "Raquel Watts",
+    "url": "https://en.wikipedia.org/wiki/Raquel_Watts",
+    "portrayer": "Sarah Lancashire",
+    "years": "1991–1996, 2000",
+    "spouses": [
+      "Curly Watts (1995–2000)",
+      "Armand de Beaux (2000–present)"
+    ],
+    "image": "avatars/raquel-watts.jpg"
+  },
+  "anne-malone": {
+    "title": "List of Coronation Street characters introduced in 1995#Anne Malone",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_1995#Anne_Malone",
+    "portrayer": "Eve Steele",
+    "years": "1995–1998",
+    "spouses": []
+  },
+  "archie-shuttleworth": {
+    "title": "List of Coronation Street characters introduced in 2002#Archie Shuttleworth",
+    "url": "https://en.wikipedia.org/wiki/List_of_Coronation_Street_characters_introduced_in_2002#Archie_Shuttleworth",
+    "portrayer": "Roy Hudd",
+    "years": "2002–2003, 2006, 2010",
+    "spouses": [
+      "Joan Shuttleworth"
+    ]
+  }
+}
