@@ -3,6 +3,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/corrie/',
+  // Relative assets support both the custom Pages domain and /corrie/ fallback.
+  base: './',
   plugins: [react()],
 })
