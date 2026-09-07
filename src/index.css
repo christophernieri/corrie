@@ -368,9 +368,9 @@ button { color: inherit; }
     width: 100%;
     max-height: 72vh;
     border-radius: 22px 22px 0 0;
-    animation-name: sheet-in;
+    animation: none;
+    transform: none;
   }
-  @keyframes sheet-in { from { transform: translateY(100%); opacity: 0; } }
   .sidebar-handle {
     display: block;
     width: 38px;

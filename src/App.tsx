@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { createPortal } from 'react-dom'
 import Graph from './components/Graph'
 import Legend from './components/Legend'
 import Search from './components/Search'
@@ -75,7 +76,7 @@ export default function App() {
         />
       </div>
 
-      {selected && (
+      {selected && createPortal(
         <>
           <button className="sidebar-scrim" onClick={() => setSelectedId(null)} aria-label="Close" />
           <Sidebar
@@ -85,7 +86,8 @@ export default function App() {
             onSelect={setSelectedId}
             onClose={() => setSelectedId(null)}
           />
-        </>
+        </>,
+        document.body,
       )}
     </main>
   )
