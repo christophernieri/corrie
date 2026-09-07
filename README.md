@@ -4,6 +4,8 @@ An interactive map of Coronation Street’s characters and storylines during
 1998–2004. Explore 96 characters and 139 connections, including marriages,
 affairs, family ties, feuds and murders.
 
+**Live site:** https://christophernieri.github.io/corrie/
+
 ## Features
 
 - Pan, zoom and drag around a force-directed relationship graph

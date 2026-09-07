@@ -251,7 +251,7 @@ export default function Graph({
                       <circle r="43" />
                     </clipPath>
                     <image
-                      href={`/${image}`}
+                      href={`${import.meta.env.BASE_URL}${image}`}
                       x="-43"
                       y="-43"
                       width="86"

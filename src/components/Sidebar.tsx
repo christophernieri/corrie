@@ -37,7 +37,7 @@ export default function Sidebar({
       <header className="profile">
         <div className="profile-avatar">
           <span>{initials(character.name)}</span>
-          {wiki?.image && <img src={`/${wiki.image}`} alt="" />}
+          {wiki?.image && <img src={`${import.meta.env.BASE_URL}${wiki.image}`} alt="" />}
         </div>
         <div>
           <p className="profile-kicker">{character.group} circle</p>
